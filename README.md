@@ -31,6 +31,3 @@ The project leverages Express server to seamlessly incorporate CRUD functionalit
 
 Clone or download the repository to your local machine and explore the codebase to understand the Book Review Server-side Application. 
 
-### Contact
-
-If you have any questions, please feel free to reach out via my [email](nl020@bucknell.edu) or [LinkedIn](https://www.linkedin.com/in/naing-oo-lwin-nolan/).
